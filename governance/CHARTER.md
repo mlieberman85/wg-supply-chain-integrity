@@ -67,6 +67,8 @@ The following TIs are currently sponsored by the SCI WG. Each TI articulates ann
 - [SBOMit](https://github.com/SBOMit) - attestation-based SBOM accuracy
 - [FRSCA](https://buildsec.github.io/frsca) - Factory for Repeatable Secure Creation of Artifacts
 - [SLSA Tooling Project](../slsa-tooling.md)
+- [AMPEL](https://github.com/carabiner-dev/ampel)
+- [Darnit](https://github.com/kusari-oss/darnit)
 
 No TI is being moved out of the WG as part of this charter.
 

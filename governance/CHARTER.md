@@ -69,7 +69,7 @@ The following TIs are currently sponsored by the SCI WG. Each TI articulates ann
 - [SLSA Tooling Project](../slsa-tooling.md)
 - [AMPEL](https://github.com/carabiner-dev/ampel)
 - [Darnit](https://github.com/kusari-oss/darnit)
-
+* [BOMHort](https://github.com/seebom-labs/BOMHort) — Kubernetes-native SBOM visualization and governance
 No TI is being moved out of the WG as part of this charter.
 
 ## 8. Sub-project (TI) admission criteria
